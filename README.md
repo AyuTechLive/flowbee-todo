@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 ### Video Tutorial
 
 <video width="640" height="360" controls>
-  <source src="https://drive.google.com/file/d/1jEG1EbEzcgaClpAMqkOkPNiOs1pasR-k/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1jEG1EbEzcgaClpAMqkOkPNiOs1pasR-k" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
